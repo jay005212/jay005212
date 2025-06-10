@@ -33,7 +33,7 @@ function Login() {
 
   return (
     <div className="App">
-      <h1>login</h1>
+      <h1>Jay</h1>
       <form>
         <input
           type="text"
